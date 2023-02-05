@@ -32,11 +32,11 @@ the number of neighboring mines in each field.</p>*
 
 ### 🎯 Step 2: Link files and get executeable
 
-- tlink /v mine.obj
+- `tlink /v mine.obj`
 
 ### 🎯 Step 3: Run
 
-- mine.exe
+- `mine.exe`
 
 # 📂 Files
 
